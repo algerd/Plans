@@ -1,0 +1,7 @@
+
+Взять за основу code.makery.addressapp и добавить/переделать с использовнием
+проектов javabegin.ru.address_book и programmingknowledge.javafx.sqllite:
+1) использовать sqllite вместо xml
+2) добавить поиск
+3) добавить интернационализацию
+4) добавить поля ControlsFX вместо дефолтных
